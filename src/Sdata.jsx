@@ -24,7 +24,7 @@ const Sdata = [
         id: 3,
         sname: "the Vampire Diaries",
         imgsrc: "https://images.justwatch.com/poster/8589251/s592",
-        title: "A Netflix Orignal Series",
+        title: "Amazon Orignal Series",
         link: "https://www.netflix.com/in/title/80990668?source=35",
     },
     {
