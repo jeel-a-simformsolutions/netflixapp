@@ -17,7 +17,7 @@ const favSeries = 'netflix';
 const App = () => (
   <>
 
-    <h1 className="heading_style"> List of top 5 Series in 2020</h1>
+    <h1 className="heading_style"> List of top 5 Series in 2022</h1>
     {/*<FavS />*/}
 
     {favSeries === "netflix" ? <Netflix /> : <Amazon />}

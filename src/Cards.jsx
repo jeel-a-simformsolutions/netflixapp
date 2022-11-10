@@ -10,7 +10,7 @@ function Card(props) {
                 <div className="card ">
                     <Images imgsrc={props.imgsrc} />
                     <div className="card_info">
-                        <span className="card_category">{props.title}  </span>
+                        <span className="card_category">{props.title} </span>
                         <Heading sname={props.sname} />
                         <a href={props.link} target="_blank">
                             <button> watch Now </button>
